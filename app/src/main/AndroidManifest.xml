@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.phsycologicaldisordersinfo">
+
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_web"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBEnkpmIV_9r4QIGa1HkJCn7kFQykNypPA"/>
+
+        <activity
+            android:name="com.example.android.phsycologicaldisordersinfo.SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar"
+            android:label="@string/app_name"></activity>
+        <activity android:name=".about"
+            android:label="@string/about_tittle"></activity>
+
+        <activity android:name=".info"
+            android:label="@string/app_name"></activity>
+
+        <activity android:name=".doctors"
+            android:label="@string/doctors"></activity>
+
+        <activity android:name=".tests"
+            android:label="@string/tests"></activity>
+
+        <activity android:name=".Alz"
+            android:label="@string/alz"></activity>
+
+        <activity android:name=".dep"
+            android:label="@string/dep"></activity>
+
+        <activity android:name=".Eat"
+            android:label="@string/ed"></activity>
+
+        <activity android:name=".scz"
+            android:label="@string/sczhi"></activity>
+
+        <activity android:name=".Anx"
+            android:label="@string/anx"></activity>
+
+    </application>
+
+</manifest>

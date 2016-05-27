@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:src="@drawable/alzheimers"
+                android:id="@+id/img_alz"
+                android:layout_margin="10dp"
+                android:scaleType="centerCrop"
+                android:onClick="alzhimers"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/eating"
+                android:id="@+id/img_eat"
+                android:layout_below="@+id/img_alz"
+                android:scaleType="centerCrop" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/anx"
+                android:id="@+id/img_anx"
+                android:layout_below="@+id/img_eat"
+                android:scaleType="centerCrop" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/schizophrenia"
+                android:id="@+id/img_scz"
+                android:layout_below="@+id/img_anx"
+                android:scaleType="centerCrop" />
+            <ImageView
+                android:id="@+id/img_dep"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/dep"
+                android:layout_below="@+id/img_scz"
+                android:scaleType="fitXY" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+

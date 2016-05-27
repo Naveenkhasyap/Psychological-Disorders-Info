@@ -1,0 +1,161 @@
+<resources>
+    <string name="google_app_id">AIzaSyBEnkpmIV_9r4QIGa1HkJCn7kFQykNypPA</string>
+    <string name="app_name">Phsycological Disorders Info</string>
+    <string name="info">Information</string>
+    <string name="doctors">Doctors</string>
+    <string name="tests">Tests</string>
+    <string name="about_tittle">About</string>
+    <string name="sczhi">Schizophrenia</string>
+    <string name="alz">Alzhimers</string>
+    <string name="ed">Eating Disorder</string>
+    <string name="anx">Anxiety</string>
+    <string name="dep">Depression</string>
+    <string name="about_info">This is app which gives you info about few Pshycological disorders and Doctors nearby and tests which can
+                                cure the diseases .</string>
+        <string name="dev">
+                             Naveen kumar M
+    </string>
+
+    <string name="depinfo">
+
+        Depression among college students wears many faces, and, in a survey conducted by the Association for University and College Counseling Center Directors, 36.4% of college students reported they experienced some level of depression in 2013. Depression is the number one reason students drop out of school, and is a gateway issue that, if left untreated, could lead to other symptoms or suicide. Depression is a common but serious illness that leaves you feeling despondent and helpless, completely detached from the world. It interferes with your life, making it difficult to work, study, sleep and eat.
+Depressive illnesses are disorders of the brain and are likely caused by a combination of genetics, biological, psychological and environmental factors. According to the American Psychological Association, there has been a significant increase in the number of students seeking help for serious mental health problems at campus counseling centers since the mid-1990s, with depression at the forefront of the concerns.
+SYMPTOMS
+Symptoms for depression differ from person to person. It is caused by a chemical imbalance in our brains, so the way one displays depressive signs is not, necessarily, the way symptoms emerge in others. There will be similarities, but how each person reacts and behaves is determined by how they handle change, where they are in their lives and their proclivity to becoming depressed. Symptoms of depression may include, but are not limited to:
+Feelings of sadness or unhappiness
+Change in appetite or weight
+Slowed thinking or speech
+Loss of interest in activities or social gatherings
+Fatigue, loss in energy, sleeplessness
+Feelings of guilt or anger over past failures
+Trouble concentrating, indecisiveness
+Anger or frustration for no distinct reason
+Thoughts of dying, death and suicide
+We all face some of these issues from time to time, but that does not automatically mean you or your friends are depressed. However, if you begin to experience these symptoms with some regularity, or several symptoms consecutively, you may want to consult your school’s mental health center. Identifying these issues in others can be tricky, as students often downplay or simply never talk about something deeply bothering them, often due to insecurities, fear of standing out or embarrassment.
+Incoming college freshman are often told that college is the best four years of their lives. You have a new independence to do what you want, within legal bounds, and are free to explore who you are and what interests you most. But with that are many factors, like making friends, getting along with roommates or choosing classes for a specific semester, where you may feel you have little to no control.
+The stresses of being away from home, managing coursework and finding your path can lead to intense feelings of inadequacy. You may feel helpless, as if you are just going through the motions, especially when you realize you’re not having the collegiate fun everyone insisted you would. These feelings, left unchecked, can lead to depression. With that in mind, it is important to understand how to both recognize the signs of depression and how to keep yourself healthy.
+    </string>
+
+    <string name="anxinfo">
+        In moderation, stress and anxiety are a part of most people’s lives. Simply experiencing these feelings does not mean you have an anxiety disorder. Anxiety disorders occur when anxiety interferes with your daily life, halting your ability to function, and causing an immense amount of stress and fearful feelings. The Anxiety and Depression Association of America (ADAA) reports that anxiety disorders are the most common mental illness in the U.S.; they affect 40 million adults over the age of 18, yet only one-third seek and receive treatment. The ADAA goes on to say that nearly 75% of those affected by an anxiety disorder will experience their first episode before the age of 22. Anxiety disorders can include, but are not limited to:
+Generalized anxiety disorder (GAD) – Constant, severe anxiety that interferes with day-to-day activities.
+Obsessive-compulsive disorder (OCD) – Unreasonable thoughts, fears and obsessions that lead you to repetitive behaviors or compulsions.
+Panic disorder – Characterized by frequent sudden attacks of terror, panic and constant fearfulness.
+Posttraumatic stress disorder (PTSD) – A condition that’s triggered by experiencing or witnessing a terrifying event.
+Social anxiety disorder (SAD) – When everyday interactions cause irrational anxiety, fear, self-consciousness and embarrassment.
+SYMPTOMS
+Symptoms of anxiety disorders can be mistaken for everyday stress or written off as someone worrying too much. Panic attacks may be mistaken as a physical ailment, such as a heart attack or tension headache, depending on how your body responds to the increased levels of certain chemicals. Symptoms manifest differently in each person, so what is true for you won’t be true for a friend. Common symptoms for anxiety disorders may include:
+Feelings of stress and apprehension
+Irritability
+Trouble concentrating
+Fearfulness
+Sweating and dizziness
+Shortness of breath
+Irregular heartbeat
+Muscle pain and tension
+Headaches
+Frequent upset stomach or diarrhea
+The causes of anxiety disorders aren’t completely understood, but they could include genetics, naturally occurring brain chemicals, life experiences or stress. If you experience extreme anxiety around exams, it may simply be test anxiety. There are generally affordable treatment options available to students on campus, and the ADAA has a list of low cost treatment plans and resources available to you. With the number of ways to get help, there is no reason you shouldn</string>
+    <string name="eatinfo">
+        Millions of college students – both women and men – develop eating disorders during their college years, and a vast majority does not seek help or don’t realize the extent of their issues.
+Eating disorders are extreme behaviors, emotions and attitudes that revolve around food and weight issues. These disorders cause serious mental and physical problems that can result in life-threatening issues when left untreated. According to statistics provided by the National Association of Anorexia Nervosa and Associated Disorders (ANAD):
+Binge Eating Disorder – BED is characterized by constant cravings that occur any time of day and that then result in binge eating. This is often associated with poor body image and low self-esteem.
+SYMPTOMS
+The signs and symptoms of eating disorders vary by person and condition; many depend on the mental state of the individual suffering from the disorder. However, there are several red flags that are common factors for anorexia, bulimia and binging.
+Distorted or poor body image
+Excessive exercise
+Irregular heartbeats
+Dehydration
+Feeling like eating is out of control
+Fear of eating in public
+Constantly making excuses for eating habits
+Many college students do not seek treatment for their eating disorder, nor do they believe they’ve developed a problem. Eating disorders are potentially life threatening and can contribute to serious health issues if not treated properly, including:
+Kidney failure
+Stunted growth
+Loss of female menstruation
+Failure in the reproductive system
+Heart problems</string>
+
+<string name="sczinfo">
+Schizophrenia is a severe brain disorder in which people interpret reality abnormally. Schizophrenia may result in some combination of hallucinations, delusions, and extremely disordered thinking and behavior.
+Contrary to popular belief, schizophrenia isnot a split personality or multiple personality. The word schizophrenia does mean split mind, but it refers to a disruption of the usual balance of emotions and thinking.
+Schizophrenia is a chronic condition, requiring lifelong treatment.
+     This refers to reduced ability or lack of ability to function normally. For example, the person appears to lack emotion, such as not making eye contact, not changing facial expressions, speaking without inflection or monotone, or not adding hand or head movements that normally provide the emotional emphasis in speech.
+    Also, the person may have a reduced ability to plan or carry out activities, such as decreased talking and neglect of personal hygiene, or have a loss of interest in everyday activities, social withdrawal or a lack of ability to experience pleasure.
+Symptoms in teenagers
+Schizophrenia symptoms in teenagers are similar to those in adults, but the condition may be more difficult to recognize in this age group. This may be in part because some of the early symptoms of schizophrenia in teenagers are common for typical development during teen years, such as:
+Withdrawal from friends and family
+A drop in performance at school
+Trouble sleeping
+Irritability or depressed mood
+Lack of motivation
+Compared with schizophrenia symptoms in adults, teens may be:
+Less likely to have delusions
+More likely to have visual hallucinations</string>
+    <string name="alzinfo">
+Making judgments and decisions
+Depression
+Apathy
+Social withdrawal
+Mood swings
+Distrust in others
+Irritability and aggressiveness
+Changes in sleeping habits
+Wandering
+Loss of inhibitions
+Delusions, such as believing something has been stolen
+Many important skills are not lost until very late in the disease. These include the ability to read, dance and sing, enjoy old music, engage in crafts and hobbies, tell stories, and reminisce.
+This is because information, skills and habits learned early in life are among the last abilities to be lost as the disease progresses; the part of the brain that stores this information tends to be affected later in the course of the disease. Capitalizing on these abilities can foster successes and maintain quality of life even into the moderate phase of the disease</string>
+
+    <string name="alztests"> Alzhiemers tests :
+    To help distinguish Alzheimer s disease from other causes of memory loss, doctors now typically rely on the following types of tests.
+
+Physical and neurological exam
+
+Your doctor will perform a physical exam, and is likely to check your overall neurological health by testing your:
+
+Reflexes
+Muscle tone and strength
+Ability to get up from a chair and walk across the room
+Sense of sight and hearing
+Coordination
+Balance
+Lab tests
+
+Mental status and neuropsychological testing
+
+Your doctor may conduct a brief mental status test to assess your memory and other thinking skills. In addition, your doctor may suggest a more extensive assessment of your thinking and memory. Longer forms of neuropsychological testing may provide additional details about your mental function compared with others  of a similar age and education level.
+
+Brain imaging
+
+Images of the brain are now used chiefly to pinpoint visible abnormalities related to conditions other than Alzheimer s disease — such as strokes, trauma or tumors — that may cause cognitive change. New imaging applications — currently</string>
+    <string name="anxtests">Anxiety tests:
+    You may start by seeing your primary care doctor to find out if your anxiety could be related to your physical health. Your doctor can check for signs of an underlying medical condition that may need treatment.
+However, you may need to see a mental health specialist if you have severe anxiety. A psychiatrist is a medical doctor who specializes in diagnosing and treating mental health conditions. A psychologist and certain other mental health professionals can diagnose anxiety and provide counseling (psychotherapy).
+To help diagnose an anxiety disorder and rule out other conditions, your provider may:
+Give you a psychological evaluation. This involves describing your thoughts, feelings and behavior to help pinpoint a diagnosis and check for related complications. Anxiety disorders often occur along with other mental health problems — such as depression or substance abuse — which can make diagnosis more challenging.
+Compare your symptoms to the criteria in the DSM-5. Many doctors use the criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), published by the American Psychiatric Association, to diagnose an anxiety disorder.
+    </string>
+    <string name="scztests"> Schizophrenia Tests :
+        When doctors suspect someone has schizophrenia, they typically ask for medical and psychiatric histories, conduct a physical exam, and run medical and psychological tests, including:
+Tests and screenings. These may include a lab test called a complete blood count (CBC), other blood tests that may help rule out conditions with similar symptoms, and screening for alcohol and drugs. The doctor may also request imaging studies, such as an MRI or CT scan.
+Psychological evaluation. A doctor or mental health provider will check mental status by observing appearance and demeanor and asking about thoughts, moods, delusions, hallucinations, substance abuse, and potential for violence or suicide.
+    </string>
+    <string name="deptests">Depression tests :
+    These exams and tests can help rule out other problems that could be causing your symptoms, pinpoint a diagnosis and check for any related complications:
+
+Physical exam. Your doctor may do a physical exam and ask questions about your health. In some cases, depression may be linked to an underlying physical health problem.
+Lab tests. For example, your doctor may do a blood test called a complete blood count or test your thyroid to make sure its functioning properly.
+Psychological evaluation. Expect your doctor or mental health provider to ask about your symptoms, thoughts, feelings and behavior patterns. You may be asked to fill out a questionnaire to help answer these questions.
+DSM-5. Your mental health professional may use the criteria for depression listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), published by the American Psychiatric Association. This manual is used by mental health providers to diagnose mental conditions and by insurance companies to reimburse for treatment.
+    </string>
+    <string name="eattests"> Eating Disorder tests :
+    To diagnose binge-eating disorder, your doctor may recommend a psychological evaluation, including discussion of your eating habits.
+
+Your doctor also may want you to have other tests to check for health consequences of binge-eating disorder, such as high cholesterol, high blood pressure, heart problems, diabetes, GERD, and some sleep-related breathing disorders. These tests may include:
+
+A physical exam
+Blood and urine tests
+A sleep disorder center consultation</string>
+
+</resources>

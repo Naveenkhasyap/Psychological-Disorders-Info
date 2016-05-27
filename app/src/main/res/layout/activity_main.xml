@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="com.example.android.phsycologicaldisordersinfo.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:background="@color/wallet_holo_blue_light"
+        android:outlineProvider="none"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="24dp"
+        android:baselineAlignBottom="false"
+        android:contentDescription="backimage"
+        android:src="@drawable/brain" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="@string/app_name"
+        android:textAllCaps="true"
+        android:textColor="@color/material_deep_teal_500"
+        android:textSize="20sp"
+        android:theme="@style/AppTheme" />
+
+    <Button
+        android:id="@+id/psy_info"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="193dp"
+        android:onClick="information"
+        android:outlineProvider="background"
+        android:padding="15dp"
+        android:text="@string/info" />
+
+    <Button
+        android:id="@+id/Doctors"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/psy_info"
+        android:layout_alignStart="@+id/psy_info"
+        android:layout_below="@+id/psy_info"
+        android:layout_marginTop="25dp"
+        android:onClick="doctors"
+        android:padding="15dp"
+        android:text="@string/doctors" />
+
+    <Button
+        android:id="@+id/tests"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/Doctors"
+        android:layout_alignStart="@+id/Doctors"
+        android:layout_below="@+id/Doctors"
+        android:layout_marginTop="25dp"
+        android:onClick="tests"
+        android:padding="15dp"
+        android:text="@string/tests" />
+
+    <Button
+        android:id="@+id/about"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/tests"
+        android:layout_alignStart="@+id/tests"
+        android:layout_below="@+id/tests"
+        android:layout_marginTop="25dp"
+        android:text="About" />
+
+
+</RelativeLayout>
