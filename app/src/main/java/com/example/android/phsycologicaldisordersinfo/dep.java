@@ -19,6 +19,7 @@ public class dep extends Activity {
         switch (receive) {
             case 2: {
                 ImageView img = (ImageView) findViewById(R.id.img_one);
+                img.setPadding(110, 30, 3, 3);
                 img.setImageResource(R.drawable.dep);
 
                 TextView tv = (TextView) findViewById(R.id.text_view);
@@ -27,6 +28,7 @@ public class dep extends Activity {
             break;
             case 1: {
                 ImageView img = (ImageView) findViewById(R.id.img_one);
+                img.setPadding(110, 30, 3, 3);
                 img.setImageResource(R.drawable.dep);
 
                 TextView tv = (TextView) findViewById(R.id.text_view);
