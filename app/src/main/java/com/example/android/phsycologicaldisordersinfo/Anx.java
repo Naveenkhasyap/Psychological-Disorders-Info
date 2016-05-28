@@ -19,12 +19,14 @@ public class Anx extends Activity {
 
         if (2 == receive) {
             ImageView img = (ImageView) findViewById(R.id.img_one);
+            img.setPadding(130, 30, 3, 3);
             img.setImageResource(R.drawable.anx);
 
             TextView tv = (TextView) findViewById(R.id.text_view);
             tv.setText(R.string.anxinfo);
         } else {
             ImageView img = (ImageView) findViewById(R.id.img_one);
+            img.setPadding(130, 30, 3, 3);
             img.setImageResource(R.drawable.anx);
 
             TextView tv = (TextView) findViewById(R.id.text_view);
